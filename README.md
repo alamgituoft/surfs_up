@@ -9,6 +9,7 @@ Software: Python 3.8.5, Jupyter notebook 6.1.4
 The statistical results below are displayed for the temperature in the month of June and December 2017.
 ## June Temperature Statistics 
 <img width="137" alt="June Temps" src="https://user-images.githubusercontent.com/81877387/123482152-caf78680-d5d2-11eb-82fb-b7cf87de0104.png">
+
 ## December Temperature Statistics
 <img width="149" alt="Dec Temps" src="https://user-images.githubusercontent.com/81877387/123482157-ccc14a00-d5d2-11eb-809e-ecf310783d2a.png">
 The main results show:
