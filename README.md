@@ -2,6 +2,8 @@
 # Project Overview
 Analysis project for W.Avy to review temperature trends in Oahu, Hawaii in order to allow the Board of Directors to make a decision about investing in a surf and ice cream shop business. 
 
+![image](https://user-images.githubusercontent.com/81877387/155235814-84eade62-b1da-4700-9850-c6a536e52591.png)
+
 # Resources
 Software: Python 3.8.5, Jupyter notebook 6.1.4
 
